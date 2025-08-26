@@ -1,0 +1,34 @@
+.input {
+    width: 100%;
+    height: 100%;
+    outline: 1px solid black;
+    font-size: larger;
+    font-weight: 600;
+}
+#table{
+    height: 500px;
+    width: 500px;
+}
+
+#parentDiv {
+    background-color: grey;
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+}
+
+#txt {
+    text-align: center;
+    color: white;
+}
+
+#a{
+    width: 98%;
+    height: 98%;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
